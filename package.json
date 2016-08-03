@@ -1,0 +1,59 @@
+{
+  "name": "ybruin-command-create",
+  "description": "ybruin create command.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ybruin Team"
+  },
+  "keywords": [
+    "ybruin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ybruin/ybruin-command-release.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ut --recursive"
+  },
+  "dependencies": {
+    "chokidar": "1.4.3",
+    "del": "^2.2.1",
+    "livereload-server-spec": "0.2.3",
+    "portfinder": "0.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Ybruin/ybruin-command-release/issues"
+  },
+  "gitHead": "2a5450fdada3ddeda84b264fe7df6458eeeaf745",
+  "homepage": "https://github.com/Ybruin/ybruin-command-release",
+  "_id": "ybruin-command-release@0.1.0",
+  "_shasum": "62da8fd6b9be5b5115e1a2e8d3ca10cfdbcaaea0",
+  "_from": "ybruin-command-release@>=0.1.0 <0.2.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "4.3.2",
+  "_npmUser": {
+    "name": "leechikit",
+    "email": "leechikit0823@163.com"
+  },
+  "dist": {
+    "shasum": "62da8fd6b9be5b5115e1a2e8d3ca10cfdbcaaea0",
+    "tarball": "https://registry.npmjs.org/ybruin-command-release/-/ybruin-command-release-0.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "leechikit",
+      "email": "leechikit0823@163.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/ybruin-command-release-0.1.0.tgz_1467965198875_0.5097822020761669"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ybruin-command-release/-/ybruin-command-release-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
